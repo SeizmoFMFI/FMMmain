@@ -124,7 +124,7 @@
 			children = (
 				3079232019ED2EE600054458 /* FMM */,
 				3079233A19ED2EE600054458 /* FMM.sln */,
-				30E9DF1619ED2E6500913A79 /* FMM1 */,
+				30E9DF1619ED2E6500913A79 /* FMM_fm */,
 				30E9DF1519ED2E6500913A79 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -137,7 +137,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		30E9DF1619ED2E6500913A79 /* FMM1 */ = {
+		30E9DF1619ED2E6500913A79 /* FMM_fm */ = {
 			isa = PBXGroup;
 			children = (
 				3079235119ED2F8900054458 /* main.cpp */,
@@ -147,6 +147,7 @@
 				3079235519ED2F8900054458 /* VelocityModel.h */,
 				30E9DF1919ED2E6500913A79 /* FMM1.1 */,
 			);
+			name = FMM_fm;
 			path = FMM1;
 			sourceTree = "<group>";
 		};

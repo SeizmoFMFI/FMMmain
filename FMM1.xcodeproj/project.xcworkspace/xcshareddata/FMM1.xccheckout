@@ -17,6 +17,8 @@
 	<string>FMM1.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>E7FE30FE-AE88-4AB2-AE07-36B2EFCDDFC9</key>
+		<string>../../../FastMarchingMethod</string>
 		<key>E988957B-6736-44BB-B1CF-028E99F58C14</key>
 		<string>../..</string>
 	</dict>
@@ -28,6 +30,14 @@
 	<string>E988957B-6736-44BB-B1CF-028E99F58C14</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E7FE30FE-AE88-4AB2-AE07-36B2EFCDDFC9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FastMarchingMethod</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
