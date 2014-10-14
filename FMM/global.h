@@ -30,7 +30,7 @@ extern float  ***at,***v;
 #define FORALL  for(unsigned short i=0;i<nx;i++) for(unsigned short j=0;j<ny;j++) for(unsigned short k=0;k<nz;k++)
 #define FORSPARSE  for(unsigned short i=0;i<mx;i++) for(unsigned short j=0;j<my;j++) for(unsigned short k=0;k<mz;k++)
 
-#define PI 3.1415926535
+#define PI 3.1415926535f
 
 extern int nx,ny,nz;
 
