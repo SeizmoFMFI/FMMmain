@@ -27,6 +27,7 @@ int main(int argc, const char * argv[]) {
 	//update model
 
     int dx, dy, dz, sx, sy, sz;
+    
     //prepare MODEL
     dx = 100;
     dy = 100;

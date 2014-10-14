@@ -1,5 +1,4 @@
 #include "global.h"
-
 int nx,ny,nz;
 
 Data::Data(char* argv,char *argv2): name(argv),computation_ID(atoi(argv2)) {
