@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FMM", "FMM\FMM.vcxproj", "{8E9C8FC0-0579-456F-AC7F-092764F177E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FMM1", "FMM1\FMM1.vcxproj", "{0672D805-CA43-4745-A365-4BE79A9B7F8E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prepare_model_FMM", "prepare_model_FMM\prepare_model_FMM.vcxproj", "{868F63D7-2582-49C8-9795-5B9FEDD56BAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +19,14 @@ Global
 		{8E9C8FC0-0579-456F-AC7F-092764F177E7}.Debug|Win32.Build.0 = Debug|Win32
 		{8E9C8FC0-0579-456F-AC7F-092764F177E7}.Release|Win32.ActiveCfg = Release|Win32
 		{8E9C8FC0-0579-456F-AC7F-092764F177E7}.Release|Win32.Build.0 = Release|Win32
+		{0672D805-CA43-4745-A365-4BE79A9B7F8E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0672D805-CA43-4745-A365-4BE79A9B7F8E}.Debug|Win32.Build.0 = Debug|Win32
+		{0672D805-CA43-4745-A365-4BE79A9B7F8E}.Release|Win32.ActiveCfg = Release|Win32
+		{0672D805-CA43-4745-A365-4BE79A9B7F8E}.Release|Win32.Build.0 = Release|Win32
+		{868F63D7-2582-49C8-9795-5B9FEDD56BAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{868F63D7-2582-49C8-9795-5B9FEDD56BAE}.Debug|Win32.Build.0 = Debug|Win32
+		{868F63D7-2582-49C8-9795-5B9FEDD56BAE}.Release|Win32.ActiveCfg = Release|Win32
+		{868F63D7-2582-49C8-9795-5B9FEDD56BAE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

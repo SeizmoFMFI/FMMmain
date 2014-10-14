@@ -13,8 +13,19 @@
 
 using namespace std;
 
-int main(int argc, const char * argv[])
-{
+int main(int argc, const char * argv[]) {
+	//one iteration:
+
+	//prepare directory - copy input files
+	//run extern program forward - FMM.exe
+
+	//prepare directory - copy input files
+	//run extern program forward - FMM.exe
+
+	//compute kernels
+
+	//update model
+
     int dx, dy, dz, sx, sy, sz;
     //prepare MODEL
     dx = 100;
