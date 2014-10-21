@@ -6,6 +6,23 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		301D61D119F675B700C9713A /* approx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61B419F675B700C9713A /* approx.cpp */; };
+		301D61D219F675B700C9713A /* auxilary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61B619F675B700C9713A /* auxilary.cpp */; };
+		301D61D319F675B700C9713A /* boundary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61B819F675B700C9713A /* boundary.cpp */; };
+		301D61D419F675B700C9713A /* data.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61B919F675B700C9713A /* data.cpp */; };
+		301D61D519F675B700C9713A /* interfaces.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61BE19F675B700C9713A /* interfaces.cpp */; };
+		301D61D619F675B700C9713A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61BF19F675B700C9713A /* main.cpp */; };
+		301D61D719F675B700C9713A /* output.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61C019F675B700C9713A /* output.cpp */; };
+		301D61D819F675B700C9713A /* prep_arrivals.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61C219F675B700C9713A /* prep_arrivals.cpp */; };
+		301D61D919F675B700C9713A /* queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61C319F675B700C9713A /* queue.cpp */; };
+		301D61DA19F675B700C9713A /* receiver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61C519F675B700C9713A /* receiver.cpp */; };
+		301D61DB19F675B700C9713A /* siet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61C719F675B700C9713A /* siet.cpp */; };
+		301D61DC19F675B700C9713A /* siet_FD1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61C919F675B700C9713A /* siet_FD1.cpp */; };
+		301D61DD19F675B700C9713A /* siet_parab.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61CA19F675B700C9713A /* siet_parab.cpp */; };
+		301D61DE19F675B700C9713A /* source.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 301D61CB19F675B700C9713A /* source.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		301D61A119F673BE00C9713A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +37,34 @@
 
 /* Begin PBXFileReference section */
 		301D61A319F673BE00C9713A /* FMM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FMM; sourceTree = BUILT_PRODUCTS_DIR; };
+		301D61B419F675B700C9713A /* approx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = approx.cpp; sourceTree = "<group>"; };
+		301D61B519F675B700C9713A /* approx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = approx.h; sourceTree = "<group>"; };
+		301D61B619F675B700C9713A /* auxilary.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = auxilary.cpp; sourceTree = "<group>"; };
+		301D61B719F675B700C9713A /* auxilary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = auxilary.h; sourceTree = "<group>"; };
+		301D61B819F675B700C9713A /* boundary.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = boundary.cpp; sourceTree = "<group>"; };
+		301D61B919F675B700C9713A /* data.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = data.cpp; sourceTree = "<group>"; };
+		301D61BA19F675B700C9713A /* data.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = data.h; sourceTree = "<group>"; };
+		301D61BB19F675B700C9713A /* FMM.vcxproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = FMM.vcxproj; sourceTree = "<group>"; };
+		301D61BC19F675B700C9713A /* FMM.vcxproj.filters */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = FMM.vcxproj.filters; sourceTree = "<group>"; };
+		301D61BD19F675B700C9713A /* global.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = global.h; sourceTree = "<group>"; };
+		301D61BE19F675B700C9713A /* interfaces.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = interfaces.cpp; sourceTree = "<group>"; };
+		301D61BF19F675B700C9713A /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		301D61C019F675B700C9713A /* output.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = output.cpp; sourceTree = "<group>"; };
+		301D61C119F675B700C9713A /* output.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = output.h; sourceTree = "<group>"; };
+		301D61C219F675B700C9713A /* prep_arrivals.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = prep_arrivals.cpp; sourceTree = "<group>"; };
+		301D61C319F675B700C9713A /* queue.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = queue.cpp; sourceTree = "<group>"; };
+		301D61C419F675B700C9713A /* queue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = queue.h; sourceTree = "<group>"; };
+		301D61C519F675B700C9713A /* receiver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = receiver.cpp; sourceTree = "<group>"; };
+		301D61C619F675B700C9713A /* receiver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = receiver.h; sourceTree = "<group>"; };
+		301D61C719F675B700C9713A /* siet.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = siet.cpp; sourceTree = "<group>"; };
+		301D61C819F675B700C9713A /* siet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = siet.h; sourceTree = "<group>"; };
+		301D61C919F675B700C9713A /* siet_FD1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = siet_FD1.cpp; sourceTree = "<group>"; };
+		301D61CA19F675B700C9713A /* siet_parab.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = siet_parab.cpp; sourceTree = "<group>"; };
+		301D61CB19F675B700C9713A /* source.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = source.cpp; sourceTree = "<group>"; };
+		301D61CC19F675B700C9713A /* source.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = source.h; sourceTree = "<group>"; };
+		301D61CD19F675B700C9713A /* FMM.sln */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FMM.sln; sourceTree = "<group>"; };
+		301D61CF19F675B700C9713A /* prepare_model_FMM.vcxproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = prepare_model_FMM.vcxproj; sourceTree = "<group>"; };
+		301D61D019F675B700C9713A /* prepare_model_FMM.vcxproj.filters */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = prepare_model_FMM.vcxproj.filters; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +81,9 @@
 		301D619A19F673BE00C9713A = {
 			isa = PBXGroup;
 			children = (
+				301D61B319F675B700C9713A /* FMM */,
+				301D61CD19F675B700C9713A /* FMM.sln */,
+				301D61CE19F675B700C9713A /* prepare_model_FMM */,
 				301D61A419F673BE00C9713A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,6 +94,47 @@
 				301D61A319F673BE00C9713A /* FMM */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		301D61B319F675B700C9713A /* FMM */ = {
+			isa = PBXGroup;
+			children = (
+				301D61B419F675B700C9713A /* approx.cpp */,
+				301D61B519F675B700C9713A /* approx.h */,
+				301D61B619F675B700C9713A /* auxilary.cpp */,
+				301D61B719F675B700C9713A /* auxilary.h */,
+				301D61B819F675B700C9713A /* boundary.cpp */,
+				301D61B919F675B700C9713A /* data.cpp */,
+				301D61BA19F675B700C9713A /* data.h */,
+				301D61BB19F675B700C9713A /* FMM.vcxproj */,
+				301D61BC19F675B700C9713A /* FMM.vcxproj.filters */,
+				301D61BD19F675B700C9713A /* global.h */,
+				301D61BE19F675B700C9713A /* interfaces.cpp */,
+				301D61BF19F675B700C9713A /* main.cpp */,
+				301D61C019F675B700C9713A /* output.cpp */,
+				301D61C119F675B700C9713A /* output.h */,
+				301D61C219F675B700C9713A /* prep_arrivals.cpp */,
+				301D61C319F675B700C9713A /* queue.cpp */,
+				301D61C419F675B700C9713A /* queue.h */,
+				301D61C519F675B700C9713A /* receiver.cpp */,
+				301D61C619F675B700C9713A /* receiver.h */,
+				301D61C719F675B700C9713A /* siet.cpp */,
+				301D61C819F675B700C9713A /* siet.h */,
+				301D61C919F675B700C9713A /* siet_FD1.cpp */,
+				301D61CA19F675B700C9713A /* siet_parab.cpp */,
+				301D61CB19F675B700C9713A /* source.cpp */,
+				301D61CC19F675B700C9713A /* source.h */,
+			);
+			path = FMM;
+			sourceTree = "<group>";
+		};
+		301D61CE19F675B700C9713A /* prepare_model_FMM */ = {
+			isa = PBXGroup;
+			children = (
+				301D61CF19F675B700C9713A /* prepare_model_FMM.vcxproj */,
+				301D61D019F675B700C9713A /* prepare_model_FMM.vcxproj.filters */,
+			);
+			path = prepare_model_FMM;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -104,6 +193,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				301D61D519F675B700C9713A /* interfaces.cpp in Sources */,
+				301D61D219F675B700C9713A /* auxilary.cpp in Sources */,
+				301D61DD19F675B700C9713A /* siet_parab.cpp in Sources */,
+				301D61D619F675B700C9713A /* main.cpp in Sources */,
+				301D61DE19F675B700C9713A /* source.cpp in Sources */,
+				301D61D119F675B700C9713A /* approx.cpp in Sources */,
+				301D61DC19F675B700C9713A /* siet_FD1.cpp in Sources */,
+				301D61D819F675B700C9713A /* prep_arrivals.cpp in Sources */,
+				301D61D919F675B700C9713A /* queue.cpp in Sources */,
+				301D61DA19F675B700C9713A /* receiver.cpp in Sources */,
+				301D61D719F675B700C9713A /* output.cpp in Sources */,
+				301D61D319F675B700C9713A /* boundary.cpp in Sources */,
+				301D61DB19F675B700C9713A /* siet.cpp in Sources */,
+				301D61D419F675B700C9713A /* data.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,6 +320,7 @@
 				301D61AC19F673BE00C9713A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
