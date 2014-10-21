@@ -10,39 +10,29 @@
 	<string>FMM1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>E988957B-6736-44BB-B1CF-028E99F58C14</key>
+		<key>63250BE985F84F8D5B1D3EC3A7CB39730AA1FE3D</key>
 		<string>https://github.com/SeizmoFMFI/FMMmain</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>FMM1.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E7FE30FE-AE88-4AB2-AE07-36B2EFCDDFC9</key>
-		<string>../../../FastMarchingMethod</string>
-		<key>E988957B-6736-44BB-B1CF-028E99F58C14</key>
+		<key>63250BE985F84F8D5B1D3EC3A7CB39730AA1FE3D</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/SeizmoFMFI/FMMmain</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E988957B-6736-44BB-B1CF-028E99F58C14</string>
+	<string>63250BE985F84F8D5B1D3EC3A7CB39730AA1FE3D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E7FE30FE-AE88-4AB2-AE07-36B2EFCDDFC9</string>
-			<key>IDESourceControlWCCName</key>
-			<string>FastMarchingMethod</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E988957B-6736-44BB-B1CF-028E99F58C14</string>
+			<string>63250BE985F84F8D5B1D3EC3A7CB39730AA1FE3D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>FMMmain</string>
 		</dict>

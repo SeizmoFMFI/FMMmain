@@ -12,7 +12,6 @@
 		3079233D19ED2EE600054458 /* boundary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3079232519ED2EE600054458 /* boundary.cpp */; };
 		3079233E19ED2EE600054458 /* data.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3079232619ED2EE600054458 /* data.cpp */; };
 		3079233F19ED2EE600054458 /* interfaces.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3079232B19ED2EE600054458 /* interfaces.cpp */; };
-		3079234019ED2EE600054458 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3079232C19ED2EE600054458 /* main.cpp */; };
 		3079234119ED2EE600054458 /* output.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3079232D19ED2EE600054458 /* output.cpp */; };
 		3079234219ED2EE600054458 /* prep_arrivals.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3079232F19ED2EE600054458 /* prep_arrivals.cpp */; };
 		3079234319ED2EE600054458 /* queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3079233019ED2EE600054458 /* queue.cpp */; };
@@ -52,7 +51,6 @@
 		3079232919ED2EE600054458 /* FMM.vcxproj.filters */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = FMM.vcxproj.filters; sourceTree = "<group>"; };
 		3079232A19ED2EE600054458 /* global.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = global.h; sourceTree = "<group>"; };
 		3079232B19ED2EE600054458 /* interfaces.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = interfaces.cpp; sourceTree = "<group>"; };
-		3079232C19ED2EE600054458 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		3079232D19ED2EE600054458 /* output.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = output.cpp; sourceTree = "<group>"; };
 		3079232E19ED2EE600054458 /* output.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = output.h; sourceTree = "<group>"; };
 		3079232F19ED2EE600054458 /* prep_arrivals.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = prep_arrivals.cpp; sourceTree = "<group>"; };
@@ -101,7 +99,6 @@
 				3079232919ED2EE600054458 /* FMM.vcxproj.filters */,
 				3079232A19ED2EE600054458 /* global.h */,
 				3079232B19ED2EE600054458 /* interfaces.cpp */,
-				3079232C19ED2EE600054458 /* main.cpp */,
 				3079232D19ED2EE600054458 /* output.cpp */,
 				3079232E19ED2EE600054458 /* output.h */,
 				3079232F19ED2EE600054458 /* prep_arrivals.cpp */,
@@ -210,7 +207,6 @@
 				3079233F19ED2EE600054458 /* interfaces.cpp in Sources */,
 				3079234119ED2EE600054458 /* output.cpp in Sources */,
 				3079234219ED2EE600054458 /* prep_arrivals.cpp in Sources */,
-				3079234019ED2EE600054458 /* main.cpp in Sources */,
 				3079235619ED2F8900054458 /* main.cpp in Sources */,
 				3079233E19ED2EE600054458 /* data.cpp in Sources */,
 				3079234819ED2EE600054458 /* source.cpp in Sources */,
